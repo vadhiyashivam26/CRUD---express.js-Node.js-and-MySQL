@@ -9,7 +9,9 @@
 
   --> manipulation such as 
   👉 Add New User in database.
+  
   👉 Edit Username with correct password, if password is wrong then wdit is not happend.
+  
   👉 Delete User from database, if password is correct.
 
 # thanks❤️.  
