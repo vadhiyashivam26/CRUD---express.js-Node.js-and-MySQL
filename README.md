@@ -8,6 +8,7 @@
   --> manipulate that data dynamically in database 
 
   --> manipulation such as 
+  
   👉 Add New User in database.
   
   👉 Edit Username with correct password, if password is wrong then wdit is not happend.
