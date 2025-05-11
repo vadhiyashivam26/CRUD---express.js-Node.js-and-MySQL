@@ -12,4 +12,4 @@
   👉 Edit Username with correct password, if password is wrong then wdit is not happend.
   👉 Delete User from database, if password is correct.
 
-# thank you for gave me your precious time❤️.  
+# thanks❤️.  
