@@ -1,4 +1,4 @@
-# This Repository is example of Simple CRUD Operations using Express.js, Node.js, RESTfull APIs, MySQL.
+# This Repository is example of Simple CRUD Operations using Express.js, Node.js, EJS, RESTfull APIs, MySQL.
 
 # this repository is part of my backend journey.
 
